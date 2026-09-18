@@ -378,6 +378,36 @@ Job description characteristics
 
 The insights are based on the collected dataset and are intended for educational and analytical purposes.
 
+## 📌 Dataset Source and Limitations
+
+The job listing dataset was collected through web scraping from the **Fake Python Jobs** website provided by Real Python:
+
+https://realpython.github.io/fake-jobs/
+
+The website provides sample job listings for educational and web-scraping practice purposes.
+
+The collected dataset contains job-related information such as:
+
+- Job Title
+- Company Name
+- Location
+- Job Description
+- Posted Date
+- Job URL
+
+The collected data was stored as a raw CSV file and then processed through data cleaning, feature engineering, statistical analysis, and exploratory data analysis.
+
+### Limitations
+
+- The dataset is a sample job-listing dataset and does not represent the complete real-world job market.
+- The number of available job listings is limited.
+- The dataset is mainly focused on Python and software-development-related positions.
+- Some job categories and fields have limited variation.
+- Salary information is not available in the source dataset.
+- Work-mode information such as remote, hybrid, or on-site is not available in the source dataset.
+- The analysis is limited to the information available in the collected job listings.
+- The results and insights represent observations from this dataset and should not be considered general conclusions about the overall job market.
+
 🔮 Future Enhancements
 
 Collect job listings from additional sources
