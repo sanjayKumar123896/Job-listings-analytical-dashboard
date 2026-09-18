@@ -117,6 +117,7 @@ Processed dataset download
 | 💻 Visual Studio Code | Development environment                |
 | 🐙 GitHub             | Project version control and repository |
 
+
 📁 Project Structure
 
 Job Listings Analytical Dashboard/
